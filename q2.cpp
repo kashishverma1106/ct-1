@@ -1,3 +1,9 @@
+/*  Name-Kashish 
+	rollno.-2010991411
+	SetNo.-3
+	Q no.2 --->find a pair with the given sum in an array
+
+*/
 #include <iostream>
 #include <algorithm>
 using namespace std;
